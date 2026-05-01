@@ -1,0 +1,15 @@
+---
+name: Dr. Brittany Shubert
+role: associate_dentist
+office: "[[Krouth Dental]]"
+email: 
+phone: 
+linkedin: 
+license_number: 
+license_state: IL
+license_status: active
+specialty: general
+---
+
+## Notes
+Associate at Krouth Dental. No additional details found as of 2026-04-26.
